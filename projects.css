@@ -261,8 +261,8 @@ nav {
         /* border: 2px solid red; */
         overflow: hidden;
         object-fit: cover;
-        height: 100px;
-        width: 400px;
+        height: 50px;
+        width: 300px;
         position: absolute;
         left: 0;
       }
@@ -372,7 +372,7 @@ nav {
        
  .btn {
     display: inline-block;
-    padding: 15px 25px; /* Adjust padding as needed */
+    padding: 10px 20px; /* Adjust padding as needed */
     background-color: #6378a5b6; /* Button background color */
     color: #fff; /* Text color */
     text-decoration: none; /* Remove default underline */
@@ -382,7 +382,7 @@ nav {
     font-weight: bold; /* Make text bold, if desired */
     transition: background-color 0.2s; /* Add a smooth hover transition */
     border: 2px solid #6378a5b6;
-    font-size: 20px;
+    font-size: 12px;
   }
   
   /* Style on hover */
@@ -394,8 +394,8 @@ nav {
     
 
     .logo {
-        width: 150px; /* Set a width for the container, adjust as needed */
-        height: 100px; /* Set a height for the container, adjust as needed */
+        width: 100px; /* Set a width for the container, adjust as needed */
+        height: 80px; /* Set a height for the container, adjust as needed */
         background-image: url('oie_XYAvPMTN1Gq1.png'); /* Set the background image */
         background-size: cover; /* Adjust the image size as needed */
         background-position: center center; /* Center the image */
@@ -406,8 +406,4 @@ nav {
 
  
 
- .apply-now
- {
-  display: block;
-  align-items: center;
- }
+ 
